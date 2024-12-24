@@ -1,3 +1,8 @@
+/*Write a program to print odd numbers between 1 and 50 in reverse order.*/
+
+
+
+
 #include<stdio.h>
 
 int main()
