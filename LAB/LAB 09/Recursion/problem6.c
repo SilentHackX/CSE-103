@@ -1,3 +1,8 @@
+/*Implement a recursive function to find the n-th Fibonacci number, where n is provided as input.
+Display the entire sequence up to n using the function.*/
+
+
+
 #include<stdio.h>
 
 int  fib(int n)
