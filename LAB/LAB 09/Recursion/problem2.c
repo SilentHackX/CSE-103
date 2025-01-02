@@ -1,3 +1,10 @@
+
+/*Create a structure named Book to store book details like title, author, and price. Write a C
+program to input details for five books, find the most expensive and the lowest priced books, and
+display their information.*/
+
+
+
 #include<stdio.h>
 #include<stdio.h>
 
