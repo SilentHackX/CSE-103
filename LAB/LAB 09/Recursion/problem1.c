@@ -1,4 +1,10 @@
 
+/*Create a structure called ”Student” with members name, age, and total marks. Write a C program
+to input data fortwo students, display theirinformation, and find the average oftotal marks.*/
+
+
+
+
 #include<stdio.h>
 
 typedef struct
