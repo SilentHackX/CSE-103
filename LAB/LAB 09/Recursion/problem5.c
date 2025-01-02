@@ -1,3 +1,8 @@
+/*Create a recursive function to calculate the sum of the digits of a given integer n. For example, if n
+= 1234, the result should be 1 + 2 + 3 + 4 = 10.*/
+
+
+
 #include<stdio.h>
 
 int sumofdigit(int n)
